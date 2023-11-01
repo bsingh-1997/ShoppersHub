@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "image": "https://iphonesoft.fr/images/2022/11/iphone-15-pro-ultra.jpg",
+    "title": "iphone 15",
+    "description": "Iphone 15 brand new",
+    "price": 80000, 
+    "category": "Smartphone"
+  },
+  {
+    "id": 2,
+    "image": "https://www.refurbished.store/cache/images/iphone-8-zilver-multi_1_600x600_BGresize_16777215-tj.png",
+    "title": "iphone 8",
+    "description": "Refurbished.",
+    "price": 30000, 
+    "category": "Smartphone"
+  },
+  {
+    "id": 3,
+    "image": "https://www.custommacbd.com/cdn/shop/products/Pixel-7-Pro-Snow-custom-mac-bd.jpg?v=1669539762",
+    "title": "google pixel",
+    "description": "brand new",
+    "price": 70000, 
+    "category": "Smartphone"
+  },
+  {
+    "id": 2,
+    "image": "https://www.apple.com/newsroom/images/product/iphone/standard/iPhone_XR_white-back_09122018_carousel.jpg.large.jpg",
+    "title": "iphone xr",
+    "description": "New",
+    "price": 30000, 
+    "category": "Smartphone"
+  },
+  {
+    "id": 3,
+    "image": "https://th.bing.com/th/id/OIP.zBxQUJbVz5qWZfAbgWa1tQHaE8?pid=ImgDet&rs=1",
+    "title": "Airpods pro",
+    "description": "brand new",
+    "price": 20000, 
+    "category": "Earphones"
+  },
+  {
+    "id": 2,
+    "image": "https://i5.walmartimages.com/asr/d9e92563-5e2b-41ee-aa49-a4eb691bf149_1.134030636e881197d211775897c54c11.jpeg",
+    "title": "TWS x7",
+    "description": "brand new",
+    "price": 3000, 
+    "category": "Earphones"
+  },
+  {
+    "id": 3,
+    "image": "https://th.bing.com/th/id/R.dccae2ed8cd3893be490d87889d1b675?rik=wEvC7RcxQB7taA&riu=http%3a%2f%2fwww.bhphotovideo.com%2fimages%2fimages2000x2000%2fjbl_jblpulse2blkus_pulse_2_portable_bluetooth_1182617.jpg&ehk=j6my%2bmKW831KcdKA2Q2CSpr7%2fGJ0v6AvveqLK05HUKk%3d&risl=&pid=ImgRaw&r=0",
+    "title": "JBL pulse",
+    "description": "brand new",
+    "price": 50000, 
+    "category": "Speakers"
+  },
+  {
+    "id": 2,
+    "image": "https://www.bhphotovideo.com/images/images1500x1500/jbl_jblpartybox100am_partybox_100_portable_bluetooth_1496787.jpg",
+    "title": "JBL boombox",
+    "description": "wireless",
+    "price": 60000, 
+    "category": "Speakers"
+  },
+  {
+    "id": 3,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6427/6427078ld.jpg",
+    "title": "jbl charge",
+    "description": "brand new",
+    "price": 6000, 
+    "category": "Speakers"
+  },
+  {
+    "id": 2,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x200nzaainu/gallery/in-galaxy-a8-sm-x200-sm-x200nzaainu-537893732?$730_584_PNG$",
+    "title": "Samsung a8",
+    "description": "tab",
+    "price": 15000, 
+    "category": "Tab"
+  },
+  {
+    "id": 3,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-space-gray-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670948364698",
+    "title": "ipad 10th gen",
+    "description": "brand new",
+    "price": 580000, 
+    "category": "Tab"
+  },
+  {
+    "id": 3,
+    "image": "https://www.apple.com/newsroom/images/product/ipad/standard/apple_ipados14_widgets_062220_big.jpg.large.jpg",
+    "title": "ipad 10th gen",
+    "description": "brand new",
+    "price": 580000, 
+    "category": "Tab"
+  },
+  {
+    "id": 2,
+    "image": "https://isensestore.in/wp-content/uploads/2020/09/isense1.jpeg",
+    "title": "ipod nano",
+    "description": "Ipod",
+    "price": 17000, 
+    "category": "Ipod"
+  },
+  {
+    "id": 3,
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-05/11/full/1652250544-9418.jpg?im=FeatureCrop,size=(826,465)",
+    "title": "ipod shuffle",
+    "description": "brand new",
+    "price": 7000, 
+    "category": "Ipod"
+  },
+  {
+    "id": 2,
+    "image": "https://cdn.britannica.com/79/146179-050-A9E577B7/iPod-2001.jpg",
+    "title": "ipod classic 180gb",
+    "description": "Ipod classic",
+    "price": 34500, 
+    "category": "Ipod"
+  },
+  {
+    "id": 3,
+    "image": "https://img.global.news.samsung.com/in/wp-content/uploads/2016/03/T3_007_Dynamaic_Silver.jpg",
+    "title": "Samsung 1tb ssd",
+    "description": "brand new 1tb ssd",
+    "price": 10000, 
+    "category": "Ssd"
+  },
+  {
+    "id": 2,
+    "image": "https://m.media-amazon.com/images/I/91n044oeDZL._AC_UF1000,1000_QL80_.jpg",
+    "title": "Samsung t7 ssd",
+    "description": "1tb",
+    "price": 12000, 
+    "category": "Ssd"
+  },
+  {
+    "id": 3,
+    "image": "https://m.media-amazon.com/images/I/411vuq7lxXL.jpg",
+    "title": "evm 2tb ssd",
+    "description": "brand new 2tb",
+    "price": 11899, 
+    "category": "Ssd"
+  },
+  {
+    "id": 2,
+    "image": "https://www.thevaluestore.in/image/cache/catalog/2022/Crucial/SSD/x8-1tb-1-1000x1000.jpg",
+    "title": "Crucial ssd 1tb",
+    "description": "1tb",
+    "price": 11000, 
+    "category": "Ssd"
+  },
+  {
+    "id": 3,
+    "image": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/syndication-feed/consumer/barracuda-fast-ssd/images/barracuda-fast-ssd-tilted-400x400.jpg",
+    "title": "Seagate",
+    "description": "brand new 2 tb",
+    "price": 14000, 
+    "category": "Ssd"
+  },
+  {
+    "id": 2,
+    "image": "https://iphonesoft.fr/images/2022/11/iphone-15-pro-ultra.jpg",
+    "title": "iphone 8",
+    "description": "Iphone 8",
+    "price": 30000, 
+    "category": "Smartphone"
+  },
+  {
+    "id": 3,
+    "image": "https://th.bing.com/th/id/OIP.Amt6S238GAiM6_VBU5TOlwHaHa?pid=ImgDet&rs=1",
+    "title": "Macbook",
+    "description": "brand new",
+    "price": 170000, 
+    "category": "Laptop"
+  },
+  {
+    "id": 2,
+    "image": "https://i5.walmartimages.com/asr/ee1840e1-d589-498f-810c-0d4ee6cc9a4e.f05cdc65e3976a4b7af1aec5806d8034.jpeg",
+    "title": "Asus laptop",
+    "description": "Rtx 3040",
+    "price": 130000, 
+    "category": "Laptop"
+  },
+  {
+    "id": 3,
+    "image": "https://th.bing.com/th/id/OIP.5EZRHGR0LgL2IWcQ511TkQHaF5?pid=ImgDet&rs=1",
+    "title": "Hp pavvilion",
+    "description": "brand new",
+    "price": 45000, 
+    "category": "Laptop"
+  }
+]
